@@ -3,10 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-config/springboot-config.iml" filepath="$PROJECT_DIR$/springboot-config/springboot-config.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-config/springboot-config.iml" filepath="$PROJECT_DIR$/springboot-config/springboot-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-hello/springboot-hello.iml" filepath="$PROJECT_DIR$/springboot-hello/springboot-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-properties/springboot-properties.iml" filepath="$PROJECT_DIR$/springboot-properties/springboot-properties.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-static-file/springboot-static-file.iml" filepath="$PROJECT_DIR$/springboot-static-file/springboot-static-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-static-file/springboot-static-file.iml" filepath="$PROJECT_DIR$/springboot-static-file/springboot-static-file.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootlearnexample.iml" filepath="$PROJECT_DIR$/springbootlearnexample.iml" />
     </modules>
