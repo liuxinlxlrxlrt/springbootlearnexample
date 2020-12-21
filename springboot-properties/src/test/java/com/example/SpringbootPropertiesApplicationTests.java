@@ -29,5 +29,4 @@ class SpringbootPropertiesApplicationTests {
 		System.out.println(userSource);
 		System.out.println(userValue);
 	}
-
 }
