@@ -1,9 +1,8 @@
-package com.example.properties;
+package com.mayikt.properties;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Component;
 
 import java.util.Date;
@@ -13,8 +12,9 @@ import java.util.Set;
 
 @Data
 @Component
+@PropertySource("classpath:user.properties")
 @ConfigurationProperties(prefix = "user")
-public class User {
+public class UserSource {
     private Integer id;
     private String lastName;
     private String[] strs;

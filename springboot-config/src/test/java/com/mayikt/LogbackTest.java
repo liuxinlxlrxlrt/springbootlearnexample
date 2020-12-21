@@ -1,4 +1,4 @@
-package com.example;
+package com.mayikt;
 
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;

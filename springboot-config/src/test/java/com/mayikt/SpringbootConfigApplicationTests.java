@@ -1,6 +1,6 @@
-package com.example;
+package com.mayikt;
 
-import com.example.entity.User;
+import com.mayikt.entity.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

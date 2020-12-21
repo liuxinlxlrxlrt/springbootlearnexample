@@ -14,25 +14,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bb50bb7-f16d-4e6e-a08f-f913da752897" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/config02/UserConfig03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/config02/UserConfig04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/config01/UserConfig01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/config01/UserConfig02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/config01/UserConfigAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-config/src/test/java/com/example/LogbackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-static-file/src/main/resources/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-static-file/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloController3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-properties/src/main/java/com/example/properties/UserValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-properties/src/main/java/com/example/properties/UserValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-properties/src/test/java/com/example/SpringbootPropertiesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-properties/src/test/java/com/example/SpringbootPropertiesApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/main/java/com/config02/UserConfig03.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/config02/UserConfig03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/main/java/com/config02/UserConfig04.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/config02/UserConfig04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/SpringbootConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/mayikt/SpringbootConfigApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/config01/UserConfig01.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/mayikt/config01/UserConfig01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/config01/UserConfig02.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/mayikt/config01/UserConfig02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/config01/UserConfigAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/mayikt/config01/UserConfigAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/main/java/com/example/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/main/java/com/mayikt/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/test/java/com/example/LogbackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/test/java/com/mayikt/LogbackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-config/src/test/java/com/example/SpringbootConfigApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-config/src/test/java/com/mayikt/SpringbootConfigApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-hello/src/main/java/com/example/SpringbootHelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/SpringbootHelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-hello/src/main/java/com/example/controller/HelloControlle02.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloControlle02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-hello/src/main/java/com/example/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-hello/src/test/java/com/example/SpringbootHelloApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-hello/src/test/java/com/mayikt/SpringbootHelloApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-properties/src/main/java/com/example/SpringbootPropertiesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-properties/src/main/java/com/mayikt/SpringbootPropertiesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-properties/src/main/java/com/example/properties/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-properties/src/main/java/com/mayikt/properties/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-properties/src/main/java/com/example/properties/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-properties/src/main/java/com/mayikt/properties/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-properties/src/main/java/com/example/properties/UserSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-properties/src/main/java/com/mayikt/properties/UserSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-properties/src/main/java/com/example/properties/UserValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-properties/src/main/java/com/mayikt/properties/UserValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-properties/src/test/java/com/example/SpringbootPropertiesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-properties/src/test/java/com/mayikt/SpringbootPropertiesApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-static-file/src/main/java/com/example/SpringbootStaticFileApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-static-file/src/main/java/com/mayikt/SpringbootStaticFileApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-static-file/src/test/java/com/example/SpringbootStaticFileApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-static-file/src/test/java/com/mayikt/SpringbootStaticFileApplicationTests.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/springboot-config/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-static-file/target/" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +49,88 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-properties/src/test/java/com/mayikt/SpringbootPropertiesApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-properties/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-properties/src/main/java/com/mayikt/properties/UserValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-hello/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="8" selection-start-line="8" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/SpringbootHelloApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="10" selection-start-line="10" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloController3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="8" selection-start-line="8" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloControlle02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +143,16 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-hello/src/main/java/com/example/controller/HelloController3.java" />
+        <option value="$PROJECT_DIR$/springboot-hello/src/main/java/com/example/controller/HelloControlle02.java" />
+        <option value="$PROJECT_DIR$/springboot-hello/src/main/java/com/example/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloController.java" />
+      </list>
+    </option>
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -67,16 +168,91 @@
         <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="vmOptionsForImporter" value="-Xms1024m -Xmx2048m" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="MavenRunner">
     <option name="delegateBuildToMaven" value="true" />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="507" />
+    <option name="y" value="36" />
+    <option name="width" value="1419" />
+    <option name="height" value="870" />
+  </component>
   <component name="ProjectId" id="1lapmNVW7rFleR06JuHBRMghjE0" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootlearnexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootlearnexample" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootlearnexample" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootlearnexample" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootlearnexample" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootlearnexample" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mayikt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootlearnexample" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-hello" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mayikt" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootlearnexample" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootlearnexample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -92,8 +268,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1607864124439" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608513176130" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javadesignpattern" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -103,6 +279,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.controller" />
       <recent name="com.example.config01" />
       <recent name="com.example.config" />
       <recent name="com.example.properties" />
@@ -110,6 +287,18 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\javaCode\21_ProjectStorageFolder\TestNG\springbootlearnexample\springboot-properties\src\main\resources" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="JUnit.LogbackTest.testLogger">
     <configuration default="true" type="JetRunConfigurationType">
@@ -163,12 +352,12 @@
       <module name="springboot-config" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.mayikt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.LogbackTest" />
+      <option name="PACKAGE_NAME" value="com.mayikt" />
+      <option name="MAIN_CLASS_NAME" value="com.mayikt.LogbackTest" />
       <option name="METHOD_NAME" value="testLogger" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -179,12 +368,12 @@
       <module name="springboot-config" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.mayikt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.SpringbootConfigApplicationTests" />
+      <option name="PACKAGE_NAME" value="com.mayikt" />
+      <option name="MAIN_CLASS_NAME" value="com.mayikt.SpringbootConfigApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -195,21 +384,28 @@
       <module name="springboot-properties" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.*" />
+          <option name="PATTERN" value="com.mayikt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.SpringbootPropertiesApplicationTests" />
+      <option name="PACKAGE_NAME" value="com.mayikt" />
+      <option name="MAIN_CLASS_NAME" value="com.mayikt.SpringbootPropertiesApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringbootConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mayikt.SpringbootConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootHelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-hello" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootHelloApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mayikt.SpringbootHelloApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -217,15 +413,26 @@
     </configuration>
     <configuration name="SpringbootPropertiesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-properties" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SpringbootPropertiesApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mayikt.SpringbootPropertiesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootStaticFileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-static-file" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mayikt.SpringbootStaticFileApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.SpringbootPropertiesApplicationTests.contextLoads" />
       <item itemvalue="JUnit.LogbackTest.testLogger" />
       <item itemvalue="JUnit.SpringbootConfigApplicationTests.contextLoads" />
-      <item itemvalue="JUnit.SpringbootPropertiesApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.SpringbootHelloApplication" />
+      <item itemvalue="Spring Boot.SpringbootPropertiesApplication" />
+      <item itemvalue="Spring Boot.SpringbootConfigApplication" />
+      <item itemvalue="Spring Boot.SpringbootStaticFileApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -234,7 +441,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SpringBootOptions">
     <option name="showAdditionalConfigNotification" value="false" />
   </component>
@@ -261,7 +468,45 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13543000" />
+    <option name="totallyTimeSpent" value="14885000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25788197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43872115" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37833038" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.61634105" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" visible="true" weight="0.24511546" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -271,7 +516,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -290,7 +542,10 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020-12-21 08:49" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-12-21 08:49" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1607953812719">
@@ -325,6 +580,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="362" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608094313213" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.4.1/spring-boot-autoconfigure-2.4.1.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloController3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloControlle02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" selection-start-line="8" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-hello/src/main/java/com/mayikt/SpringbootHelloApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" selection-start-line="10" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

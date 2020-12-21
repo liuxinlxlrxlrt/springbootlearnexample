@@ -1,8 +1,7 @@
 package com.config02;
 
-import com.example.entity.User;
+import com.mayikt.entity.User;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 
 
 public class UserConfig04 {

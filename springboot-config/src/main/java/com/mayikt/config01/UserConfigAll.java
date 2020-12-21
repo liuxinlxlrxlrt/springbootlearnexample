@@ -1,4 +1,4 @@
-package com.example.config01;
+package com.mayikt.config01;
 
 
 import com.config02.UserConfig03;

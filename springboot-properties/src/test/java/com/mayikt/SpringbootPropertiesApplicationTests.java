@@ -1,9 +1,9 @@
-package com.example;
+package com.mayikt;
 
-import com.example.properties.Person;
-import com.example.properties.User;
-import com.example.properties.UserSource;
-import com.example.properties.UserValue;
+import com.mayikt.properties.Person;
+import com.mayikt.properties.User;
+import com.mayikt.properties.UserSource;
+import com.mayikt.properties.UserValue;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

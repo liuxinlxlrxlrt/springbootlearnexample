@@ -1,13 +1,13 @@
-package com.example;
+package com.mayikt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootPropertiesApplication {
+public class SpringbootStaticFileApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootPropertiesApplication.class, args);
+		SpringApplication.run(SpringbootStaticFileApplication.class, args);
 	}
 
 }
