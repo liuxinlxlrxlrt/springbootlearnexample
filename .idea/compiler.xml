@@ -9,8 +9,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-config" />
         <module name="springboot-hello" />
-        <module name="springboot-static-file" />
         <module name="springboot-properties" />
+        <module name="springboot-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +18,7 @@
       <module name="springboot-hello" target="1.8" />
       <module name="springboot-properties" target="1.8" />
       <module name="springboot-static-file" target="1.8" />
+      <module name="springboot-web" target="1.8" />
       <module name="springbootlearnexample" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -27,6 +28,7 @@
       <module name="springboot-hello" options="-parameters" />
       <module name="springboot-properties" options="-parameters" />
       <module name="springboot-static-file" options="-parameters" />
+      <module name="springboot-web" options="-parameters" />
     </option>
   </component>
 </project>

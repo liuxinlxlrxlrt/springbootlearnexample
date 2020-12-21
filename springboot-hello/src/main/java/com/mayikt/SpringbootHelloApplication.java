@@ -19,6 +19,8 @@ public class SpringbootHelloApplication {
 	public CommandLineRunner commandLineRunner(ApplicationContext cxt){
 		return args -> {
 			System.out.println("let's inspect the beans provide by spring boot");
+			//ApplicationContext.getBeanDefinitionNames()
+			// 该方法用于获取 Spring 容器中定义的所有 JavaBean 的名称。
 			String[] beanNames=cxt.getBeanDefinitionNames();
 			Arrays.sort(beanNames);
 			for (String beanName : beanNames) {
