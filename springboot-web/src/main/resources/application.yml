@@ -1,3 +1,36 @@
 mayikt:
   name: 江疏影
   age: 25
+#freemarker配置
+#spring:
+#  http:
+#    encoding:
+#      charset: UTF-8
+#      force: true
+#  ###模板引擎编码为UTF-8
+#  freemarker:
+#    allow-request-override: false
+#    cache: false
+#    check-template-location: true
+#    charset: UTF-8
+#    content-type: text/html;charset=utf-8
+#    expose-request-attributes: false
+#    expose-session-attributes: false
+#    expose-spring-macro-helpers: false
+#    ##模板文件结尾.ftl
+#    suffix: .ftl
+#    ##模板文件目录
+#    template-loader-path: classpath:/templates
+
+###Thymeleaf配置
+spring:
+  thymeleaf:
+    #prefix：指定模板所在的目录
+    prefix: classpath:/templates/
+    #check-template-location：检查模板路径是否存在
+    check-template-location: true
+    #cache：是否缓存，开发模式下设置false，避免该了模板还要重启服务，线上设置为true,可提高性能
+    cache: true
+    suffix: .html
+    encoding: UTF-8
+    mode: HTML5
