@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-config/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_jdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybaits/pom.xml" />
+        <option value="$PROJECT_DIR$/sprongboot-multithreadasynchronous/pom.xml" />
       </list>
     </option>
   </component>

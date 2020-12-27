@@ -4,9 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springboot-config/springboot-config.iml" filepath="$PROJECT_DIR$/springboot-config/springboot-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-hello/springboot-hello.iml" filepath="$PROJECT_DIR$/springboot-hello/springboot-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybaits/springboot-mybaits.iml" filepath="$PROJECT_DIR$/springboot-mybaits/springboot-mybaits.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-properties/springboot-properties.iml" filepath="$PROJECT_DIR$/springboot-properties/springboot-properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-web/springboot-web.iml" filepath="$PROJECT_DIR$/springboot-web/springboot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_jdbctemplate/springboot_jdbctemplate.iml" filepath="$PROJECT_DIR$/springboot_jdbctemplate/springboot_jdbctemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootlearnexample.iml" filepath="$PROJECT_DIR$/springbootlearnexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sprongboot-multithreadasynchronous/sprongboot-multithreadasynchronous.iml" filepath="$PROJECT_DIR$/sprongboot-multithreadasynchronous/sprongboot-multithreadasynchronous.iml" />
     </modules>
   </component>
 </project>

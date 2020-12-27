@@ -1,0 +1,7 @@
+2020-12-27 22:12:20,937 INFO (StartupInfoLogger.java:55)- Starting SpringbootMybaitsApplicationTests using Java 1.8.0_202 on DESKTOP-ADM31IU with PID 15496 (started by 86159 in D:\javaCode\21_ProjectStorageFolder\TestNG\springbootlearnexample\springboot-mybaits)
+2020-12-27 22:12:20,940 INFO (SpringApplication.java:664)- The following profiles are active: dev
+2020-12-27 22:12:25,656 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-27 22:12:27,003 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'taskScheduler'
+2020-12-27 22:12:27,279 INFO (StartupInfoLogger.java:61)- Started SpringbootMybaitsApplicationTests in 7.435 seconds (JVM running for 10.234)
+2020-12-27 22:12:28,197 INFO (ExecutorConfigurationSupport.java:218)- Shutting down ExecutorService 'taskScheduler'
+2020-12-27 22:12:28,199 INFO (ExecutorConfigurationSupport.java:218)- Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,27 @@
+#springboot默认读取配置文件名称：applicaiton.yml
+spring:
+  profiles:
+    active: dev
+  datasource:
+    url: jdbc:mysql://localhost:3306/mayikt_db?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&useSSL=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: lx@lx19870613
+
+  thymeleaf:
+    prefix: classpath:/tamplates/
+    check-template-location: true
+    cache: true
+    suffix: .html
+    encoding: UTF-8
+    mode: HTML5
+
+#设置端口号
+server:
+  port: 8081
+  servlet:
+    ##设置springboot项目上下文访问路径
+    context-path: /mayikt
+##指定loglogback.xml配置文件路径
+logging:
+  config: classpath:log/logback.xml

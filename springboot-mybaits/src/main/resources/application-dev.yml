@@ -1,0 +1,5 @@
+##application-prd.yml  “生产环境” 配置文件
+mayikt:
+  address: dev.mayikt.com
+  age: ${random.int(10)}
+  name: devmayikt

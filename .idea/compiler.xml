@@ -9,26 +9,40 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-config" />
         <module name="springboot-hello" />
+        <module name="springboot-mybaits" />
         <module name="springboot-properties" />
+        <module name="springboot-timetask" />
         <module name="springboot-web" />
+        <module name="springboot_jdbctemplate" />
+        <module name="sprongboot-multithreadasynchronous" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
       <module name="springboot-config" target="1.8" />
       <module name="springboot-hello" target="1.8" />
+      <module name="springboot-mybaits" target="1.8" />
       <module name="springboot-properties" target="1.8" />
       <module name="springboot-static-file" target="1.8" />
+      <module name="springboot-timetask" target="1.8" />
       <module name="springboot-web" target="1.8" />
+      <module name="springboot_jdbctemplate" target="1.8" />
       <module name="springbootlearnexample" target="1.8" />
+      <module name="sprongboot-multithreadasynchronous" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
       <module name="springboot-config" options="-parameters" />
       <module name="springboot-hello" options="-parameters" />
+      <module name="springboot-mybaits" options="-parameters" />
       <module name="springboot-properties" options="-parameters" />
       <module name="springboot-static-file" options="-parameters" />
+      <module name="springboot-timetask" options="-parameters" />
       <module name="springboot-web" options="-parameters" />
+      <module name="springboot_jdbctemplate" options="-parameters" />
+      <module name="sprongboot-multithreadasynchronous" options="-parameters" />
     </option>
   </component>
 </project>
