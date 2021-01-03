@@ -1,16 +1,18 @@
 package com.mayikt.service;
 
-import com.mayikt.entity.UserEntity;
-import com.mayikt.mapper.UserMapper;
-import lombok.extern.slf4j.Slf4j;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import com.mayikt.entity.UserEntity;
+import com.mayikt.mapper.UserMapper;
 
 @RestController
-@Slf4j
+//@Slf4j
 public class UserService {
-//    private Logger logger =LoggerFactory.getLogger(UserService.class);
+    private Logger log = LoggerFactory.getLogger(UserService.class);
 
     @Autowired
     private UserMapper userMapper;
@@ -50,15 +52,32 @@ public class UserService {
         return userEntity.toString();
     }
 
+    /**
+     * 演示打印日志
+     * @param userName
+     * @param age
+     * @return
+     */
     @RequestMapping("/getName")
-    public String getName(String nameName,Integer age){
-        log.info("nameName{},age{}:",nameName,age);
+    public String getName(String userName,Integer age){
+//        log.info("userName:{},age:{}",userName,age);
 //        log.debug("这个debug日志");
 //        try {
-//
+//            int i =age/0;
 //        }catch (Exception e){
-//            log.error();
+//            log.error(e.toString());
 //        }
-        return nameName;
+        return userName;
+    }
+
+    /**
+     * 演示系统出错
+     * @param age
+     * @return
+     */
+    @RequestMapping("/insertUser")
+    public int insertUser(Integer age){
+        int j=1/age;
+        return j;
     }
 }

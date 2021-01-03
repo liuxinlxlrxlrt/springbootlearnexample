@@ -1,13 +1,26 @@
-2020-12-27 22:12:35,816 INFO (StartupInfoLogger.java:55)- Starting SpringbootMybaitsApplication using Java 1.8.0_202 on DESKTOP-ADM31IU with PID 20648 (D:\javaCode\21_ProjectStorageFolder\TestNG\springbootlearnexample\springboot-mybaits\target\classes started by 86159 in D:\javaCode\21_ProjectStorageFolder\TestNG\springbootlearnexample)
-2020-12-27 22:12:35,821 INFO (SpringApplication.java:664)- The following profiles are active: dev
-2020-12-27 22:12:38,484 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8081 (http)
-2020-12-27 22:12:38,503 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8081"]
-2020-12-27 22:12:38,505 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
-2020-12-27 22:12:38,506 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.41]
-2020-12-27 22:12:38,646 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
-2020-12-27 22:12:38,646 INFO (ServletWebServerApplicationContext.java:289)- Root WebApplicationContext: initialization completed in 2727 ms
-2020-12-27 22:12:39,198 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
-2020-12-27 22:12:39,450 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'taskScheduler'
-2020-12-27 22:12:39,487 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8081"]
-2020-12-27 22:12:39,510 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8081 (http) with context path '/mayikt'
-2020-12-27 22:12:39,532 INFO (StartupInfoLogger.java:61)- Started SpringbootMybaitsApplication in 5.309 seconds (JVM running for 8.503)
+2020-12-29 22:48:29,501 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:51:52,004 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:54:16,873 INFO (StartupInfoLogger.java:55)- Starting MyBatisApplication using Java 1.8.0_202 on DESKTOP-ADM31IU with PID 5404 (D:\javaCode\21_ProjectStorageFolder\TestNG\springbootlearnexample\springboot-mybaits\target\classes started by 86159 in D:\javaCode\21_ProjectStorageFolder\TestNG\springbootlearnexample)
+2020-12-29 22:54:16,892 INFO (SpringApplication.java:664)- The following profiles are active: dev
+2020-12-29 22:54:20,473 INFO (TomcatWebServer.java:108)- Tomcat initialized with port(s): 8081 (http)
+2020-12-29 22:54:20,496 INFO (DirectJDKLog.java:173)- Initializing ProtocolHandler ["http-nio-8081"]
+2020-12-29 22:54:20,498 INFO (DirectJDKLog.java:173)- Starting service [Tomcat]
+2020-12-29 22:54:20,499 INFO (DirectJDKLog.java:173)- Starting Servlet engine: [Apache Tomcat/9.0.41]
+2020-12-29 22:54:20,708 INFO (DirectJDKLog.java:173)- Initializing Spring embedded WebApplicationContext
+2020-12-29 22:54:20,709 INFO (ServletWebServerApplicationContext.java:289)- Root WebApplicationContext: initialization completed in 3678 ms
+2020-12-29 22:54:21,402 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-29 22:54:21,661 INFO (ExecutorConfigurationSupport.java:181)- Initializing ExecutorService 'taskScheduler'
+2020-12-29 22:54:21,702 INFO (DirectJDKLog.java:173)- Starting ProtocolHandler ["http-nio-8081"]
+2020-12-29 22:54:21,728 INFO (TomcatWebServer.java:220)- Tomcat started on port(s): 8081 (http) with context path '/mayikt'
+2020-12-29 22:54:21,751 INFO (StartupInfoLogger.java:61)- Started MyBatisApplication in 6.28 seconds (JVM running for 9.952)
+2020-12-29 22:55:03,021 INFO (DirectJDKLog.java:173)- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-12-29 22:55:03,022 INFO (FrameworkServlet.java:525)- Initializing Servlet 'dispatcherServlet'
+2020-12-29 22:55:03,023 INFO (FrameworkServlet.java:547)- Completed initialization in 1 ms
+2020-12-29 22:55:37,901 INFO (UserService.java:57)- userName:mayikt,age:25
+2020-12-29 22:55:37,904 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:56:27,419 INFO (UserService.java:57)- userName:mayikt,age:25
+2020-12-29 22:56:27,421 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:56:34,792 INFO (UserService.java:57)- userName:mayikt,age:25
+2020-12-29 22:56:34,793 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:56:36,809 INFO (UserService.java:57)- userName:mayikt,age:25
+2020-12-29 22:56:36,809 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero

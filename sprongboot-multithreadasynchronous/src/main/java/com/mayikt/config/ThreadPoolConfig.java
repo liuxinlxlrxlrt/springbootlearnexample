@@ -9,6 +9,9 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 
 import java.util.concurrent.ThreadPoolExecutor;
 
+/**
+ * 配置线程池
+ */
 @Configuration
 @EnableAsync
 public class ThreadPoolConfig {
@@ -39,16 +42,17 @@ public class ThreadPoolConfig {
 
     @Bean
     public TaskExecutor taskExecutor() {
+        //创建ThreadPoolExecutor线程池对象
         ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();
         // 设置核心线程数
         executor.setCorePoolSize(corePoolSize);
         // 设置最大线程数
         executor.setMaxPoolSize(maxPoolSize);
-        // 设置队列容量
+        // 设置队列大小（容量）
         executor.setQueueCapacity(queueCapacity);
         // 设置允许的空闲时间（秒）
         //executor.setKeepAliveSeconds(keepAlive);
-        // 设置默认线程名称
+        // 设置默认线程名称（线程池前缀）
         executor.setThreadNamePrefix("thread-");
         // 设置拒绝策略rejection-policy：当pool已经达到max size的时候，如何处理新任务
         // CALLER_RUNS：不在新线程中执行任务，而是有调用者所在的线程来执行

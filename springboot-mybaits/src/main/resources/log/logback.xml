@@ -93,11 +93,11 @@
     <root level="INFO">
         <appender-ref ref="fileLog" />
         <appender-ref ref="console" />
-        <appender-ref ref="errorFile" />
+        <appender-ref ref="errorFile"/>
     </root>
 
     <!--打印sql至sqlFile文件日志-->
-    <logger name="com.dolphin.mapper" level="DEBUG" additivity="false">
+    <logger name="com.mayikt.mapper" level="DEBUG" additivity="false">
         <appender-ref ref="console" />
         <appender-ref ref="sqlFile" />
     </logger>

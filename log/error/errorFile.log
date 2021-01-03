@@ -1,0 +1,5 @@
+2020-12-29 22:51:52,004 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:55:37,904 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:56:27,421 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:56:34,793 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero
+2020-12-29 22:56:36,809 ERROR (UserService.java:62)- java.lang.ArithmeticException: / by zero

@@ -23,5 +23,8 @@ server:
     ##设置springboot项目上下文访问路径
     context-path: /mayikt
 ##指定loglogback.xml配置文件路径
+#logging:
+#  config: classpath:log/logback.xml
+###properties配置文件路径:log4j.properties
 logging:
-  config: classpath:log/logback.xml
+  config: classpath:log4j.properties
